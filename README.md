@@ -1,5 +1,5 @@
-# Customer Segmentation and Profiling
-## Unsupervised clustering of a retail store's customer database to perform Customer Segmentation and Profiling
+# Demographic Segmentation and Customer Profiling
+## Unsupervised clustering of a retail store's customer database to perform Demographic Segmentation and Customer Profiling
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and to modify its product based on its target customers from different types of customer segments, accomodating to the specific needs, behaviors and concerns of different types of customers.
 
